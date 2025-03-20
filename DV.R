@@ -15,7 +15,7 @@ library(Rfast2)
 
 # Load data from Rds objects
 
-list.files("C:/Users/feiyu/Desktop/SamsungLaptop11-7-2024/GEO submission ST organoid/GEO submission-ST organoid") 
+list.files("~") 
 DVday25 <- readRDS("Day25_DV_FB Processed.Rds")
 DVday70 <- readRDS("Day70_DV_FB.Rds")
 #===================================================================================================================
