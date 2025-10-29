@@ -1,6 +1,6 @@
 # Day 20 rostal-caudal forebrain-midbrain patterned organoid
 # Day 45 rostal-caudal forebrain-midbrain patterned organoid
-# Day 45 rostal-caudall fore-mid/hindbrain/SC patterned organoid
+# Day 45 rostal-caudal fore-hindbrain patterned organoid
 
 # Load libraries
 library(Seurat)
@@ -129,3 +129,4 @@ DotPlot(FMHday45T, features =MarkerGenesFMH45)+ RotatedAxis()
                     
                     
                     
+
